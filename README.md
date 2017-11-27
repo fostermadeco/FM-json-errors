@@ -1,0 +1,1 @@
+This extension returns the EE error message in JSON format if an AJAX request is being made.
